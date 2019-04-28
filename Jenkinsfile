@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Sup Wally') {
             steps {
-                echo 'lil bitch!!!'
+                echo 'litty bitch!!!'
             }
 
         }
